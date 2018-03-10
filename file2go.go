@@ -1,4 +1,4 @@
-package file2go
+package main
 
 import (
 	"flag"
